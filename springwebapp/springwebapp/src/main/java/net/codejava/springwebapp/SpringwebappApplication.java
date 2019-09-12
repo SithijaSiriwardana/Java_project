@@ -1,13 +1,13 @@
-package net.codejava;
+package net.codejava.springwebapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootwebappApplication {
+public class SpringwebappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootwebappApplication.class, args);
+		SpringApplication.run(SpringwebappApplication.class, args);
 	}
 
 }
