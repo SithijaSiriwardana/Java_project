@@ -1,13 +1,13 @@
-package net.codejava.springwebapp;
+package com.developer.SpringMysql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringwebappApplication {
+public class SpringMysqlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringwebappApplication.class, args);
+		SpringApplication.run(SpringMysqlApplication.class, args);
 	}
 
 }

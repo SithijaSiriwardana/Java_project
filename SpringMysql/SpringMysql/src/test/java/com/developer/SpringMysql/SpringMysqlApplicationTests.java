@@ -1,4 +1,4 @@
-package net.codejava.springwebapp;
+package com.developer.SpringMysql;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringwebappApplicationTests {
+public class SpringMysqlApplicationTests {
 
 	@Test
 	public void contextLoads() {
