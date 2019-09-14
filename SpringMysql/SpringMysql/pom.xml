@@ -14,9 +14,11 @@
 	<name>SpringMysql</name>
 	<description>project for Student management</description>
 
-	<properties>
+
+		<properties>
 		<java.version>1.8</java.version>
-	</properties>
+		<start-class>com.developer.SpringMysql.SpringMysqlApplication</start-class>
+		</properties>
 
 	<dependencies>
 		<dependency>
@@ -58,6 +60,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+
 		</plugins>
 	</build>
 
